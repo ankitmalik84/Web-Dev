@@ -1,0 +1,29 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    color:#66BFBF; 
+}
+.profile{
+    width:150px;
+    height:180px;
+}
+.profile:hover{
+    border:1px dotted ;
+    width:148px;
+    height:178px;
+    
+}
+#name{
+    color: aquamarine;
+    font-size:45px;
+}
+hr{
+    background-color: aliceblue; 
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+hr:hover{
+    width: 15%;
+}
