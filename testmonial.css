@@ -1,0 +1,26 @@
+#testmonial{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+} 
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+#press-logo{
+    width: 15%;
+    margin: 20% 20% 15%;
+}
+.carousel-item{
+    height: 200px;
+}
